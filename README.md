@@ -1,3 +1,4 @@
+- [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 - [An Introduction to BGP… from the operator of a small AS](https://quantum5.ca/2023/07/14/introduction-to-bgp-from-operator-of-small-as/)
 - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
 - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
