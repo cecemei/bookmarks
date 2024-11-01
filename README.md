@@ -1,3 +1,4 @@
+- [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
 - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 - [Pastebin](https://paste.c-net.org/)
 - [Coding on iPad using VSCode, Caddy, and code-server · Tailscale Docs](https://tailscale.com/kb/1166/vscode-ipad)
