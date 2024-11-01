@@ -1,3 +1,4 @@
+- [An Introduction to BGP… from the operator of a small AS](https://quantum5.ca/2023/07/14/introduction-to-bgp-from-operator-of-small-as/)
 - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
 - [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 - [Pastebin](https://paste.c-net.org/)
