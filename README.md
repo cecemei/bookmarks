@@ -1,3 +1,4 @@
+- [I Waited 10 Billion Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/docs/9.-%E6%9A%82%E5%AD%98%E5%8C%BA%E5%92%8C%E7%B4%A2%E5%BC%95%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86%E6%9A%82%E5%AD%98%E5%92%8C%E6%8F%90%E4%BA%A4.html)
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 - [An Introduction to BGP… from the operator of a small AS](https://quantum5.ca/2023/07/14/introduction-to-bgp-from-operator-of-small-as/)
