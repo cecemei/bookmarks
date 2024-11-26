@@ -1,3 +1,4 @@
+- [The Copenhagen Book](https://thecopenhagenbook.com/)
 - [Nancy Pelosi Trading Activity | Quiver Quantitative](https://www.quiverquant.com/congresstrading/politician/Nancy%20Pelosi-P000197)
 - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 - [I Waited 10 Billion Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
