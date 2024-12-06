@@ -1,3 +1,4 @@
+- [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](https://robertheaton.com/pymyflyspy/)
 - [Inner-platform effect - Wikipedia](https://en.wikipedia.org/wiki/Inner-platform_effect)
 - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
 - [Server-Side Rendering for Better Web Apps - Builder.io](https://www.builder.io/m/explainers/server-side-rendering)
