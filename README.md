@@ -1,3 +1,4 @@
+- [Every engineer should understand git reflog](https://graphite.dev/blog/every-engineer-should-understand-git-reflog)
 - [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](https://robertheaton.com/pymyflyspy/)
 - [Inner-platform effect - Wikipedia](https://en.wikipedia.org/wiki/Inner-platform_effect)
 - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
