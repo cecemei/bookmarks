@@ -1,3 +1,4 @@
+- [10 things to use your old desktop PC for](https://www.xda-developers.com/10-things-to-use-your-old-desktop-pc-for/)
 - [四年五个月 – 阿倫的孤獨星球](https://wukan.me/?p=2649)
 - [Every engineer should understand git reflog](https://graphite.dev/blog/every-engineer-should-understand-git-reflog)
 - [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](https://robertheaton.com/pymyflyspy/)
