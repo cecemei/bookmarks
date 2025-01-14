@@ -1,3 +1,4 @@
+- [Sourcegraph is no longer open source | Hacker News](https://news.ycombinator.com/item?id=36584656)
 - [泡泡白噪音-倾听下雨的声音](https://www.ppbzy.com/)
 - [10 things to use your old desktop PC for](https://www.xda-developers.com/10-things-to-use-your-old-desktop-pc-for/)
 - [四年五个月 – 阿倫的孤獨星球](https://wukan.me/?p=2649)
