@@ -1,3 +1,4 @@
+- [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 - [Sourcegraph is no longer open source | Hacker News](https://news.ycombinator.com/item?id=36584656)
 - [泡泡白噪音-倾听下雨的声音](https://www.ppbzy.com/)
 - [10 things to use your old desktop PC for](https://www.xda-developers.com/10-things-to-use-your-old-desktop-pc-for/)
