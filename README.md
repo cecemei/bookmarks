@@ -1,3 +1,4 @@
+- [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
 - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 - [Sourcegraph is no longer open source | Hacker News](https://news.ycombinator.com/item?id=36584656)
 - [泡泡白噪音-倾听下雨的声音](https://www.ppbzy.com/)
