@@ -1,3 +1,4 @@
+- [Composable Data Systems: Lessons from Apache Calcite Success | Querify Labs](https://www.querifylabs.com/blog/composable-data-systems-lessons-from-apache-calcite-success)
 - [How Did I Get Here?](https://how-did-i-get-here.net/)
 - [How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 - [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
