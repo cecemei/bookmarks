@@ -1,3 +1,4 @@
+- [Hacker News 每日播报](https://hacker-news.agi.li/)
 - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 - [Composable Data Systems: Lessons from Apache Calcite Success | Querify Labs](https://www.querifylabs.com/blog/composable-data-systems-lessons-from-apache-calcite-success)
 - [How Did I Get Here?](https://how-did-i-get-here.net/)
