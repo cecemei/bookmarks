@@ -1,3 +1,4 @@
+- [Jetty Threading Architecture :: Eclipse Jetty](https://jetty.org/docs/jetty/12/programming-guide/arch/threads.html)
 - [Hacker News 每日播报](https://hacker-news.agi.li/)
 - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 - [Composable Data Systems: Lessons from Apache Calcite Success | Querify Labs](https://www.querifylabs.com/blog/composable-data-systems-lessons-from-apache-calcite-success)
