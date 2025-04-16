@@ -1,3 +1,4 @@
+- [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/oracular/release)
 - [Top HN Stories](https://www.tophn.co/)
 - [Orbit – Follow the music and find your vibe](https://www.bbc.co.uk/orbitmusic)
 - [AI PDF Translator: Translate PDFs with Side-by-Side Bilingual View](https://deeppdf.ai/pdf-translator)
