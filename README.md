@@ -1,3 +1,4 @@
+- [How I Set Up New MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
 - [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/oracular/release)
 - [Top HN Stories](https://www.tophn.co/)
 - [Orbit – Follow the music and find your vibe](https://www.bbc.co.uk/orbitmusic)
