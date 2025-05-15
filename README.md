@@ -1,3 +1,4 @@
+- [Self-Hosted Software and Apps](https://selfh.st/apps/)
 - [How I Set Up New MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
 - [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/oracular/release)
 - [Top HN Stories](https://www.tophn.co/)
