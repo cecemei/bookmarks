@@ -1,3 +1,4 @@
+- [How to Secure Your New VPS: A Step-by-Step Guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 - [Why Cerbos runs as a separate process :: Cerbos // Documentation](https://docs.cerbos.dev/cerbos/latest/engineering/why_cerbos_runs_as_a_separate_process.html)
 - [了解字体的基础知识 - 少数派](https://sspai.com/post/71957)
 - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android | Hold The Robot](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
