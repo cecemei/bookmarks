@@ -1,3 +1,4 @@
+- [Travel Giant Skyscanner Overhauls Observability, Cuts Telemetry Costs by 90%](https://www.infoq.com/news/2025/05/skyscanner-observability/)
 - [Reddit top 10 post](https://reddit-top.pages.dev/)
 - [How to Secure Your New VPS: A Step-by-Step Guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 - [Why Cerbos runs as a separate process :: Cerbos // Documentation](https://docs.cerbos.dev/cerbos/latest/engineering/why_cerbos_runs_as_a_separate_process.html)
