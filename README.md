@@ -1,3 +1,4 @@
+- [GitHub - imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [8. The Homelessness Experiment - Corentin Trebaol](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 - [Travel Giant Skyscanner Overhauls Observability, Cuts Telemetry Costs by 90%](https://www.infoq.com/news/2025/05/skyscanner-observability/)
 - [Reddit top 10 post](https://reddit-top.pages.dev/)
