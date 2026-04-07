@@ -1,3 +1,4 @@
+- [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html)
 - [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
 - [开源软件授权协议详解](https://zhangshuqiao.org/2017-11/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E6%8E%88%E6%9D%83%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3/)
 - [详解 CSRF 与 XSS 攻击](https://zhangshuqiao.org/2018-07/%E8%AF%A6%E8%A7%A3CSRF%E4%B8%8EXSS%E6%94%BB%E5%87%BB/)
