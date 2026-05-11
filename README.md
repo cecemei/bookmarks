@@ -1,3 +1,4 @@
+- [How Netflix uses Druid for Real-time Insights to Ensure a High-Quality Experience](https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06)
 - [Motivation](https://garry.net/posts/motivation)
 - [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html)
 - [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
