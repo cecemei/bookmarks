@@ -1,3 +1,4 @@
+- [Cancer 1](https://blog.cleverelephant.ca/2024/04/cancer1.html)
 - [Buy A Fully Remodeled, Move-In Ready Home Over A Fixer-Upper](https://www.financialsamurai.com/buy-a-fully-remodeled-move-in-ready-home-over-a-fixer-upper/)
 - [Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale](https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e)
 - [How Netflix uses Druid for Real-time Insights to Ensure a High-Quality Experience](https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06)
