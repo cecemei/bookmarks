@@ -1,3 +1,4 @@
+- [The Instance Is Up. Or Is It? Health Checking in Client-Side vs Server-Side Load Balancing](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html)
 - [Passwords suck. Can passkeys replace them?](https://kerkour.com/passkeys)
 - [Backend for Frontend (BFF): What It Is and When to Use It | Lukas Niessen](https://lukasniessen.com/blog/170-backend-for-frontend/)
 - [Cancer 1](https://blog.cleverelephant.ca/2024/04/cancer1.html)
